@@ -1,3 +1,6 @@
+## Notionにメモ作成
+twitter-clone-海外yt
+
 ## ~/dev/next/twitter-yt
 
 ## 参考リポジトリ
